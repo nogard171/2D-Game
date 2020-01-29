@@ -1,0 +1,20 @@
+<sprites file="assets/sprites/spritesheet.png">
+	<sprite name="grass">
+		<data>
+			<texture x="32" y="0" w="32" h="32"/>
+			<bound x="0" y="0" w="32" h="32"/>
+		</data>
+	</sprite>
+	<sprite name="dirt">
+		<data>
+			<texture x="0" y="32" w="32" h="32"/>
+			<bound x="0" y="0" w="32" h="32"/>
+		</data>
+	</sprite>
+	<sprite name="sand">
+		<data>
+			<texture x="32" y="32" w="32" h="32"/>
+			<bound x="0" y="0" w="32" h="32"/>
+		</data>
+	</sprite>
+</sprites>

@@ -1,0 +1,7 @@
+<spritesheets>
+	<spritesheet name="character" file="assets/sprites/guy.png">
+		<data>
+			<sprite w="32" h="64"/>
+		</data>
+	</spritesheet>
+</spritesheets>
